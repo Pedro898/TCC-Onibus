@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "linha": "101",
+    "destino": "Terminal Central",
+    "horario": "07:15",
+    "lotacao": "Baixa"
+  },
+  {
+    "id": 2,
+    "linha": "204",
+    "destino": "Bairro Universitario",
+    "horario": "07:25",
+    "lotacao": "Media"
+  },
+  {
+    "id": 3,
+    "linha": "315",
+    "destino": "Hospital Municipal",
+    "horario": "07:40",
+    "lotacao": "Alta"
+  },
+  {
+    "id": 4,
+    "linha": "422",
+    "destino": "Rodoviaria",
+    "horario": "07:55",
+    "lotacao": "Media"
+  }
+]
